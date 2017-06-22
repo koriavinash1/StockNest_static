@@ -1,0 +1,1 @@
+var BPCL_total_error = 2.34254;var BPCL_unexplained_error = 0.565833;var BPCL_R_squared = 3.13999;var BPCL_R = 0.752219;var BPCL_MAPE = 0.0206759;var BPCL_RMSE = 0.10638;

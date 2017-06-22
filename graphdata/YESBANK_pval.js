@@ -1,0 +1,1 @@
+var YESBANK_total_error = 1.19523;var YESBANK_unexplained_error = 0.404868;var YESBANK_R_squared = 1.95215;var YESBANK_R = 0.636293;var YESBANK_MAPE = 0.016469;var YESBANK_RMSE = 0.0899854;

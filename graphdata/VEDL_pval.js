@@ -1,0 +1,1 @@
+var VEDL_total_error = 0.689324;var VEDL_unexplained_error = 0.199834;var VEDL_R_squared = 2.44948;var VEDL_R = 0.447028;var VEDL_MAPE = 0.0335202;var VEDL_RMSE = 0.0632193;

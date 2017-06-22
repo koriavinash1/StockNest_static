@@ -1,0 +1,1 @@
+var RELIANCE_total_error = 0.00981021;var RELIANCE_unexplained_error = 0.0100237;var RELIANCE_R_squared = -0.0213032;var RELIANCE_R = -0.100119;var RELIANCE_MAPE = 0.0598886;var RELIANCE_RMSE = 0.0141589;

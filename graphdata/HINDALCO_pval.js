@@ -1,0 +1,1 @@
+var HINDALCO_total_error = 0.107802;var HINDALCO_unexplained_error = 0.0255925;var HINDALCO_R_squared = 3.21224;var HINDALCO_R = 0.159976;var HINDALCO_MAPE = 0.0595467;var HINDALCO_RMSE = 0.0226241;

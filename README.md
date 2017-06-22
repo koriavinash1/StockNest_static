@@ -44,6 +44,4 @@ In the light of the above fact, my objective in this competition will be:-
 + numpy
 
 > ***"Stocks are the only thing that people are happy to buy when the price goes up" ~ Warren Buffet***
-
-***Thank You***<br>
 -------------------

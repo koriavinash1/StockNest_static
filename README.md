@@ -29,8 +29,6 @@ Now, many top analysts calmly sit in front of their computers and try to get the
 
 <hr>
 
-
-# What I aim to do in this competition-
 In this age of algorithms, we can obtain a reliable guesstimate for stock market prices using accurate machine learning models and Quantitative analysis (the study of how certain variables correlate with stock price behavior).<br>
 In the light of the above fact, my objective in this competition will be:-
  

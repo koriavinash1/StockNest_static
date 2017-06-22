@@ -1,0 +1,1 @@
+# StockNest_static
